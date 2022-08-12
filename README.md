@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TirsanX</h1>
 <h3 align="center">Interesting in Lua , C , C++ ,C# and also Being developer at Crimson HUB</h3>
 
-- 🔭 I'm Being Delevepoer at [CRIMSON HUB](https://discord.gg/Ugg9DyBVtT)
+- 🔭 I'm Being Deleveper at [CRIMSON HUB](https://discord.gg/Ugg9DyBVtT)
 
 - 🌱 I'm Interesting in **C++ , Lua , C# , Python**
 

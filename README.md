@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TirsanX</h1>
 <h3 align="center">Interesting in Lua , C , C++ ,C# and also Being developer at Crimson HUB</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
+(img align="right" alt="Coding" width="400" src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile+views&color=129e00&style=plastic")
 
 - 🔭 I'm Being Delevepoer at [CRIMSON HUB](https://discord.gg/Ugg9DyBVtT)
 
